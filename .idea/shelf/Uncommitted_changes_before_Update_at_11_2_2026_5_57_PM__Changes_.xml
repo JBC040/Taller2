@@ -1,0 +1,64 @@
+<changelist name="Uncommitted_changes_before_Update_at_11_2_2026_5_57_PM_[Changes]" date="1793660272087" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_2_2026_5_57_PM_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 11/2/2026 5:57 PM [Changes]" />
+  <binary>
+    <option name="AFTER_PATH" value="Taller2/target/classes/utilidades/Buscable.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_2_2026_5_57_PM_[Changes]/Buscable.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Taller2/target/classes/excepciones/TiendaException.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_2_2026_5_57_PM_[Changes]/TiendaException.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Taller2/target/classes/utilidades/Caja.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_2_2026_5_57_PM_[Changes]/Caja.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Taller2/target/classes/excepciones/StockInsuficienteException.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_2_2026_5_57_PM_[Changes]/StockInsuficienteException.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Taller2/target/test-classes/servicios/GestorReportesTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_2_2026_5_57_PM_[Changes]/GestorReportesTest.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Taller2/target/classes/excepciones/ProductoNoEncontradoException.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_2_2026_5_57_PM_[Changes]/ProductoNoEncontradoException.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Taller2/target/classes/excepciones/ProductoVencidoException.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_2_2026_5_57_PM_[Changes]/ProductoVencidoException.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Taller2/target/classes/servicios/GestorReportes.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_2_2026_5_57_PM_[Changes]/GestorReportes.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Taller2/target/classes/utilidades/UtilidadesGenericas.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_2_2026_5_57_PM_[Changes]/UtilidadesGenericas.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Taller2/target/test-classes/utilidades/RepositorioTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_2_2026_5_57_PM_[Changes]/RepositorioTest.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Taller2/target/test-classes/utilidades/UtilidadesGenericasTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_2_2026_5_57_PM_[Changes]/UtilidadesGenericasTest.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Taller2/target/test-classes/utilidades/OrdenamientoTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_2_2026_5_57_PM_[Changes]/OrdenamientoTest.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Taller2/target/classes/utilidades/Repositorio.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_2_2026_5_57_PM_[Changes]/Repositorio.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Taller2/target/classes/utilidades/Ordenamiento.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_2_2026_5_57_PM_[Changes]/Ordenamiento.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="Taller2/target/test-classes/utilidades/CajaTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_2_2026_5_57_PM_[Changes]/CajaTest.class" />
+  </binary>
+</changelist>

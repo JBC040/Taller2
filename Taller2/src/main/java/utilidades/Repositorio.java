@@ -18,7 +18,7 @@ public class Repositorio <T> implements Buscable <T> {
     }
 
     public List<T> obtenerTodos() {
-        return elementos;
+        return new ArrayList<>(elementos);
     }
 
     @Override

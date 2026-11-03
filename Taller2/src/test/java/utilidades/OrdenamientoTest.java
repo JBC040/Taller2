@@ -26,10 +26,7 @@ class OrdenamientoTest {
 
         Ordenamiento.ordenar(numeros);
 
-        assertEquals(
-                List.of(1, 2, 3, 5, 8),
-                numeros
-        );
+        assertEquals(List.of(1, 2, 3, 5, 8), numeros);
     }
 
     @Test

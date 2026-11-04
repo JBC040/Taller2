@@ -4,9 +4,17 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/Taller2/pom.xml" />
+        <option value="$PROJECT_DIR$/Taller2Poo/pom.xml" />
+        <option value="$PROJECT_DIR$/2Taller/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Taller2Poo/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="26" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
 </project>

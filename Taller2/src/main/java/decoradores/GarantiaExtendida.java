@@ -8,6 +8,7 @@ public class GarantiaExtendida extends ProductoDecorador {
         super(p);
     }
 
+    @Override
     protected double costoExtra() {
         return 12000;
     }

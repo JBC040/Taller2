@@ -8,6 +8,11 @@ public class EmpaqueRegalo extends ProductoDecorador {
         super(p);
     }
 
+    @Override
+    public double getPrecioBase() {
+        return super.getPrecioBase();
+    }
+
     protected double costoExtra() {
         return 5000;
     }

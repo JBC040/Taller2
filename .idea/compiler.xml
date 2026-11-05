@@ -7,10 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="2Taller" />
-        <module name="Taller" />
+        <module name="Taller2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Taller" target="1.8" />
       <module name="Taller2Poo" target="1.8" />
     </bytecodeTargetLevel>
   </component>

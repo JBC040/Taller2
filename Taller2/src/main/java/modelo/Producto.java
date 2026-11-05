@@ -2,6 +2,8 @@ package modelo;
 
 import excepciones.StockInsuficienteException;
 
+import java.util.Objects;
+
 public abstract class Producto implements Comparable<Producto> {
 
     private final String codigo;
@@ -68,14 +70,16 @@ public abstract class Producto implements Comparable<Producto> {
         return nombre.compareToIgnoreCase(p.nombre);
     }
 
+
     @Override
     public boolean equals(Object o) {
-        return o instanceof Producto && codigo.equals(((Producto) o).codigo);
+        if (!(o instanceof Producto producto)) return false;
+        return Objects.equals(codigo, producto.codigo);
     }
 
     @Override
     public int hashCode() {
-        return codigo.hashCode();
+        return Objects.hashCode(codigo);
     }
 
     @Override

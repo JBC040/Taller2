@@ -7,7 +7,7 @@ public class HistorialCompras {
         compras.add(Objects.requireNonNull(c));
     }
     public List<Compra> obtenerTodas() {
-        return new ArrayList<>(compras);
+        return List.copyOf(compras);
     }
     public List<Compra> porCliente(String id) {
         return compras.stream().filter(c -> c.getCliente().getIdentificacion().equals(id)).collect(Collectors.toList());

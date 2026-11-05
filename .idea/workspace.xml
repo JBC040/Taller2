@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="330581b4-41dc-4c31-8b32-86d61b743877" name="Changes" comment="Pull de las clases del resto de compañeros, termina clase GestorReportes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/compras/CarritoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/compras/CarritoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/compras/ClienteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/compras/ClienteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/compras/CompraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/compras/CompraTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/compras/DetalleCompraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/compras/DetalleCompraTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/compras/HistorialComprasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/compras/HistorialComprasTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/compras/ItemCarritoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/compras/ItemCarritoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/estrategias/BeneficioClienteFrecuenteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/estrategias/BeneficioClienteFrecuenteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/estrategias/CalculadoraPreciosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/estrategias/CalculadoraPreciosTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/estrategias/DescuentoTemporadaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/estrategias/DescuentoTemporadaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/estrategias/EnvioEstandarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/estrategias/EnvioEstandarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/estrategias/EnvioExpressTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/estrategias/EnvioExpressTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/estrategias/EstrategiaDescuentoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/estrategias/EstrategiaDescuentoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/estrategias/EstrategiaEnvioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/estrategias/EstrategiaEnvioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/estrategias/ResumenPrecioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/estrategias/ResumenPrecioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/estrategias/SinDescuentoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/estrategias/SinDescuentoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller2/src/test/java/servicios/GestorReportesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/servicios/GestorReportesTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="330581b4-41dc-4c31-8b32-86d61b743877" name="Changes" comment="Todas clases y test finalizados" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,41 +50,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.BeneficioClienteFrecuenteTest.soloAplicaDescuentoAClientesFrecuentes.executor": "Run",
-    "JUnit.CajaTest.debePermitirCambiarElContenido.executor": "Run",
-    "JUnit.CajaTest.guardarYObtenerContenido.executor": "Run",
-    "JUnit.CajaTest.unaCajaConContenidoNoDebeEstarVacia.executor": "Run",
-    "JUnit.CajaTest.unaCajaNuevaDebeEstarVacia.executor": "Run",
-    "JUnit.OrdenamientoTest.debeOrdenarNumerosDeMenorAMayor.executor": "Run",
-    "JUnit.OrdenamientoTest.debeOrdenarUnaListaConElementosRepetidos.executor": "Run",
-    "JUnit.OrdenamientoTest.debeOrdenarUnaListaVacia.executor": "Run",
-    "JUnit.RepositorioTest.debeAgregarElementos.executor": "Run",
-    "JUnit.RepositorioTest.debeDevolverOptionalVacioCuandoNoEncuentra.executor": "Run",
-    "JUnit.RepositorioTest.debeEncontrarUnElemento.executor": "Run",
-    "JUnit.RepositorioTest.debeObtenerTodosLosElementos.executor": "Run",
-    "JUnit.RepositorioTest.laListaObtenidaNoDebeModificarElRepositorio.executor": "Run",
-    "JUnit.UtilidadesGenericasTest.debeAgregarElementosEntreColeccionesDeTiposRelacionados.executor": "Run",
-    "JUnit.UtilidadesGenericasTest.noDebeModificarElOrigenAlAgregarElementos.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "Juanes",
-    "git.auto.fetch.suggestion.counter": "2",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.BeneficioClienteFrecuenteTest.soloAplicaDescuentoAClientesFrecuentes.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CajaTest.debePermitirCambiarElContenido.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CajaTest.guardarYObtenerContenido.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CajaTest.unaCajaConContenidoNoDebeEstarVacia.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CajaTest.unaCajaNuevaDebeEstarVacia.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OrdenamientoTest.debeOrdenarNumerosDeMenorAMayor.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OrdenamientoTest.debeOrdenarUnaListaConElementosRepetidos.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OrdenamientoTest.debeOrdenarUnaListaVacia.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RepositorioTest.debeAgregarElementos.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RepositorioTest.debeDevolverOptionalVacioCuandoNoEncuentra.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RepositorioTest.debeEncontrarUnElemento.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RepositorioTest.debeObtenerTodosLosElementos.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RepositorioTest.laListaObtenidaNoDebeModificarElRepositorio.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtilidadesGenericasTest.debeAgregarElementosEntreColeccionesDeTiposRelacionados.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtilidadesGenericasTest.noDebeModificarElOrigenAlAgregarElementos.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Juanes&quot;,
+    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;2&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Juanes\Pictures\JEBC\Segundo Semestre\POO\taller2\Taller2\src\test\java" />
@@ -201,17 +182,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Taller2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Taller2" />
-      <option name="filePath" />
-      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
@@ -343,7 +313,23 @@
       <option name="project" value="LOCAL" />
       <updated>1793838016408</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="agrego testeos de el negro">
+      <option name="closed" value="true" />
+      <created>1793840915156</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1793840915156</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Todas clases y test finalizados">
+      <option name="closed" value="true" />
+      <created>1793840974723</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1793840974723</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,7 +356,9 @@
     <MESSAGE value="elimino archivo excepciones correspondiente de londo" />
     <MESSAGE value="añado clases de londo con pull" />
     <MESSAGE value="Pull de las clases del resto de compañeros, termina clase GestorReportes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pull de las clases del resto de compañeros, termina clase GestorReportes" />
+    <MESSAGE value="agrego testeos de el negro" />
+    <MESSAGE value="Todas clases y test finalizados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Todas clases y test finalizados" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="330581b4-41dc-4c31-8b32-86d61b743877" name="Changes" comment="Dejar listo para el pull request">
+    <list default="true" id="330581b4-41dc-4c31-8b32-86d61b743877" name="Changes" comment="Correccion ultimos detalles">
+      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/main/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller2/src/main/java/compras/HistorialCompras.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/main/java/compras/HistorialCompras.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller2/src/main/java/decoradores/EmpaqueRegalo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/main/java/decoradores/EmpaqueRegalo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller2/src/main/java/decoradores/GarantiaExtendida.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/main/java/decoradores/GarantiaExtendida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller2/src/test/java/compras/CarritoTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller2/target/classes/compras/HistorialCompras.class" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/target/classes/compras/HistorialCompras.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +65,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "JUnit.BeneficioClienteFrecuenteTest.soloAplicaDescuentoAClientesFrecuentes.executor": "Run",
     "JUnit.CajaTest.debePermitirCambiarElContenido.executor": "Run",
     "JUnit.CajaTest.guardarYObtenerContenido.executor": "Run",
@@ -122,7 +118,20 @@
       <recent name="utilidades" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.java in Taller2">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Taller2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BeneficioClienteFrecuenteTest.soloAplicaDescuentoAClientesFrecuentes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Taller2" />
       <extension name="coverage">
@@ -155,22 +164,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UtilidadesGenericasTest.debeFiltrarElementosSegunUnaCondicion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Taller2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="utilidades.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="utilidades" />
-      <option name="MAIN_CLASS_NAME" value="utilidades.UtilidadesGenericasTest" />
-      <option name="METHOD_NAME" value="debeFiltrarElementosSegunUnaCondicion" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UtilidadesGenericasTest.debePermitirFiltrarUnaColeccionSinCoincidencias" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Taller2" />
       <extension name="coverage">
@@ -197,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.java in Taller2" />
         <item itemvalue="JUnit.HistorialComprasTest.registraComprasYDevuelveUnaCopiaDeLaLista" />
         <item itemvalue="JUnit.BeneficioClienteFrecuenteTest.soloAplicaDescuentoAClientesFrecuentes" />
         <item itemvalue="JUnit.UtilidadesGenericasTest.debePermitirFiltrarUnaColeccionSinCoincidencias" />
-        <item itemvalue="JUnit.UtilidadesGenericasTest.debeFiltrarElementosSegunUnaCondicion" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +342,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793841297567</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Correccion ultimos detalles">
+      <option name="closed" value="true" />
+      <created>1793878679537</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1793878679537</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,7 +380,8 @@
     <MESSAGE value="agrego testeos de el negro" />
     <MESSAGE value="Todas clases y test finalizados" />
     <MESSAGE value="Dejar listo para el pull request" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dejar listo para el pull request" />
+    <MESSAGE value="Correccion ultimos detalles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correccion ultimos detalles" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

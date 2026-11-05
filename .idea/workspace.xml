@@ -5,50 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="330581b4-41dc-4c31-8b32-86d61b743877" name="Changes" comment="Pull de las clases del resto de compañeros, termina clase GestorReportes">
-      <change afterPath="$PROJECT_DIR$/Taller/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller/src/main/java/excepciones/ProductoVencidoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller/src/main/java/excepciones/StockInsuficienteException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller/src/main/java/excepciones/TiendaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller/src/main/java/modelo/Alimento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller/src/main/java/modelo/Ropa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller/src/main/java/modelo/Tecnologia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/compras/Carrito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/compras/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/compras/Compra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/compras/DetalleCompra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/compras/HistorialCompras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/compras/ItemCarrito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/decoradores/EmpaqueRegalo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/decoradores/GarantiaExtendida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/decoradores/ProductoDecorador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/estrategias/BeneficioClienteFrecuente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/estrategias/CalculadoraPrecios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/estrategias/DescuentoTemporada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/estrategias/EnvioEstandar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/estrategias/EnvioExpress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/estrategias/EstrategiaDescuento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/estrategias/EstrategiaEnvio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/estrategias/ResumenPrecio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/estrategias/SinDescuento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/inventario/Catalogo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/inventario/ComparadorPorPrecio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2/src/main/java/inventario/Inventario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2Taller/src/main/java/excepciones/ProductoNoEncontradoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/2Taller/src/main/java/excepciones/ProductoNoEncontradoException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2Taller/src/main/java/excepciones/ProductoVencidoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/2Taller/src/main/java/excepciones/ProductoVencidoException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2Taller/src/main/java/excepciones/StockInsuficienteException.java" beforeDir="false" afterPath="$PROJECT_DIR$/2Taller/src/main/java/excepciones/StockInsuficienteException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2Taller/src/main/java/excepciones/TiendaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/2Taller/src/main/java/excepciones/TiendaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2Taller/src/main/java/modelo/Alimento.java" beforeDir="false" afterPath="$PROJECT_DIR$/2Taller/src/main/java/modelo/Alimento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2Taller/src/main/java/modelo/Categoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/2Taller/src/main/java/modelo/Categoria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2Taller/src/main/java/modelo/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/2Taller/src/main/java/modelo/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2Taller/src/main/java/modelo/Ropa.java" beforeDir="false" afterPath="$PROJECT_DIR$/2Taller/src/main/java/modelo/Ropa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2Taller/src/main/java/modelo/Tecnologia.java" beforeDir="false" afterPath="$PROJECT_DIR$/2Taller/src/main/java/modelo/Tecnologia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller2/src/main/java/excepciones/ProductoNoEncontradoException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller2/src/main/java/modelo/Categoria.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller2/src/main/java/modelo/Producto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/compras/CarritoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/compras/CarritoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/compras/ClienteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/compras/ClienteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/compras/CompraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/compras/CompraTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/compras/DetalleCompraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/compras/DetalleCompraTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/compras/HistorialComprasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/compras/HistorialComprasTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/compras/ItemCarritoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/compras/ItemCarritoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/estrategias/BeneficioClienteFrecuenteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/estrategias/BeneficioClienteFrecuenteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/estrategias/CalculadoraPreciosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/estrategias/CalculadoraPreciosTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/estrategias/DescuentoTemporadaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/estrategias/DescuentoTemporadaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/estrategias/EnvioEstandarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/estrategias/EnvioEstandarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/estrategias/EnvioExpressTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/estrategias/EnvioExpressTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/estrategias/EstrategiaDescuentoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/estrategias/EstrategiaDescuentoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/estrategias/EstrategiaEnvioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/estrategias/EstrategiaEnvioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/estrategias/ResumenPrecioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/estrategias/ResumenPrecioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller/src/test/java/estrategias/SinDescuentoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/estrategias/SinDescuentoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller2/src/test/java/servicios/GestorReportesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller2/src/test/java/servicios/GestorReportesTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +34,8 @@
       <list>
         <option value="Exception" />
         <option value="package-info" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -97,6 +71,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.BeneficioClienteFrecuenteTest.soloAplicaDescuentoAClientesFrecuentes.executor": "Run",
     "JUnit.CajaTest.debePermitirCambiarElContenido.executor": "Run",
     "JUnit.CajaTest.guardarYObtenerContenido.executor": "Run",
     "JUnit.CajaTest.unaCajaConContenidoNoDebeEstarVacia.executor": "Run",
@@ -119,7 +94,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "Merging Juanes",
+    "git-widget-placeholder": "Juanes",
     "git.auto.fetch.suggestion.counter": "2",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
@@ -131,6 +106,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Juanes\Pictures\JEBC\Segundo Semestre\POO\taller2\Taller2\src\test\java" />
       <recent name="C:\Users\Juanes\Pictures\JEBC\Segundo Semestre\POO\taller2\Taller2\src\main\java" />
       <recent name="C:\Users\Juanes\Pictures\JEBC\Segundo Semestre\POO\taller2\taller2" />
       <recent name="C:\Users\Juanes\Pictures\JEBC\Segundo Semestre\POO\taller2\Taller2" />
@@ -145,18 +121,18 @@
       <recent name="utilidades" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UtilidadesGenericasTest.debePermitirFiltrarUnaColeccionSinCoincidencias">
-    <configuration name="OrdenamientoTest.debeOrdenarNumerosDeMenorAMayor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BeneficioClienteFrecuenteTest.soloAplicaDescuentoAClientesFrecuentes">
+    <configuration name="BeneficioClienteFrecuenteTest.soloAplicaDescuentoAClientesFrecuentes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Taller2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="utilidades.*" />
+          <option name="PATTERN" value="estrategias.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="utilidades" />
-      <option name="MAIN_CLASS_NAME" value="utilidades.OrdenamientoTest" />
-      <option name="METHOD_NAME" value="debeOrdenarNumerosDeMenorAMayor" />
+      <option name="PACKAGE_NAME" value="estrategias" />
+      <option name="MAIN_CLASS_NAME" value="estrategias.BeneficioClienteFrecuenteTest" />
+      <option name="METHOD_NAME" value="soloAplicaDescuentoAClientesFrecuentes" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -239,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BeneficioClienteFrecuenteTest.soloAplicaDescuentoAClientesFrecuentes" />
         <item itemvalue="JUnit.UtilidadesGenericasTest.debePermitirFiltrarUnaColeccionSinCoincidencias" />
         <item itemvalue="JUnit.UtilidadesGenericasTest.debeFiltrarElementosSegunUnaCondicion" />
         <item itemvalue="JUnit.UtilidadesGenericasTest.debeContarElementosDeCualquierTipo" />
         <item itemvalue="JUnit.OrdenamientoTest.debeOrdenarUnaListaConUnSoloElemento" />
-        <item itemvalue="JUnit.OrdenamientoTest.debeOrdenarNumerosDeMenorAMayor" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +327,23 @@
       <option name="project" value="LOCAL" />
       <updated>1793836979523</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Pull de las clases del resto de compañeros, termina clase GestorReportes">
+      <option name="closed" value="true" />
+      <created>1793838005568</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1793838005568</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Pull de las clases del resto de compañeros, termina clase GestorReportes">
+      <option name="closed" value="true" />
+      <created>1793838016408</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1793838016408</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

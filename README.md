@@ -27,8 +27,13 @@ El cliente agrega productos al carrito, donde se valida el stock y el vencimient
 **Logger:** `GestorReportes`
 **SOLID:** Paquetes `estrategias`, `decoradores`, `modelo` y `servicios`
 
+# UML 
+Producto abstracto tiene Tecnologia, Ropa y Alimento. ProductoDecorador hereda de Producto y contiene otro Producto; EmpaqueRegalo y GarantiaExtendida heredan de ProductoDecorador. EstrategiaDescuento tiene tres implementaciones; EstrategiaEnvio tiene dos. CalculadoraPrecios usa ambas interfaces. Carrito conecta Inventario, CalculadoraPrecios e HistorialCompras. Compra contiene DetalleCompra.
+
+
 ## Reglas de cálculo
 El precio incluye extras e impuestos. Después se aplica el descuento y finalmente el costo del envío. El stock se descuenta al confirmar la compra y los reportes conservan los precios históricos.
 
 ## Pruebas
 Lo tests se encuentran en `src/test/java`.
+
